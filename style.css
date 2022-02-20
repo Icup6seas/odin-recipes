@@ -1,9 +1,18 @@
 .title-text{
-    color: white;
+    color: #bcfd4c;
 }
-.ul-text{
+.recipe-title{
+    color: #bcfd4c;
+}
+.h2-text, .h3-text, .h4-text{
+    color: #bcfd4c;
+}
+.list-text{
     color: white;
     line-height: 200%;
+}
+p{
+    color: white;
 }
 .buttons{
     background-color: #bcfd4c;

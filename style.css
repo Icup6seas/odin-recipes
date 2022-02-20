@@ -1,0 +1,21 @@
+.title-text{
+    color: white;
+}
+.ul-text{
+    color: white;
+    line-height: 200%;
+}
+.buttons{
+    background-color: #bcfd4c;
+    color: #6e6e6e;
+    font-weight: bold;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+.buttons:hover{
+    background-color: #6e6e6e;
+    color: #bcfd4c;
+}
+.body-background{
+    background-color: #6e6e6e;
+}
